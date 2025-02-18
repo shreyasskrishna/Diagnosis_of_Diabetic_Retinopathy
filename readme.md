@@ -8,15 +8,14 @@
 This project aims to develop an advanced **retinal image classification system** to **diagnose Diabetic Retinopathy** (DR) in its early stages. By leveraging the power of **Machine Learning (ML)** and **Deep Learning (DL)**, we have implemented a **multi-model approach** to provide accurate and reliable DR detection, helping to prevent vision loss and improve patient outcomes.
 
 
-### 🖼 **Screenshots**
+####  MODEL INTERFACE
+<img src="project UI/Screenshot 2025-02-18 151627.png" width="900">
 
-#### 📌 Screenshot 1 - Model Interface
-![Screenshot 1](screenshots/screenshot1.png)
 
-#### 📌 Screenshot 2 - Prediction Output
-![Screenshot 2](screenshots/screenshot2.png)
+#### PREDICTED OUTPUT
+<img src="project UI/Screenshot 2025-02-18 151655.png" width="900">
+  
 
----
 
 ### 🛠️ **Key Technologies Used**  
 
