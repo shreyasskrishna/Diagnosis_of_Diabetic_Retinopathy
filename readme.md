@@ -1,6 +1,6 @@
 # 🚀 **Diagnosis of Diabetic Retinopathy using Multi-Model Approach (ML & DL)**
 
-**📆 Project Duration:**   
+**📆 VII SEM PROJECT**   
 👥 **Team Members:** 2  
 
 ## 📝 **Project Overview**  
