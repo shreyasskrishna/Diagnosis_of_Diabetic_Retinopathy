@@ -1,6 +1,6 @@
 # 🚀 **Diagnosis of Diabetic Retinopathy using Multi-Model Approach (ML & DL)**
 
-**📆 Project Duration:** 3 months  
+**📆 Project Duration:**   
 👥 **Team Members:** 2  
 
 ## 📝 **Project Overview**  
